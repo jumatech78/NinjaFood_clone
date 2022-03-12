@@ -1,0 +1,23 @@
+{
+  "name": "ninjafood_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumatech78/NinjaFood_clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumatech78/NinjaFood_clone/issues"
+  },
+  "homepage": "https://github.com/jumatech78/NinjaFood_clone#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
